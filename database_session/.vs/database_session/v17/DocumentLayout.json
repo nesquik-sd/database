@@ -1,10 +1,46 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\nasty\\source\\repos\\database_session\\",
+  "WorkspaceRootPath": "C:\\Users\\nasty\\source\\repos\\nesquik-sd\\database\\database_session\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B6A7582D-C50E-4FD5-A4CB-2D936B24C8D8}|database_session.csproj|c:\\users\\nasty\\source\\repos\\database_session\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{B6A7582D-C50E-4FD5-A4CB-2D936B24C8D8}|database_session.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{B6A7582D-C50E-4FD5-A4CB-2D936B24C8D8}|database_session.csproj|c:\\users\\nasty\\source\\repos\\nesquik-sd\\database\\database_session\\main_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6A7582D-C50E-4FD5-A4CB-2D936B24C8D8}|database_session.csproj|solutionrelative:main_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6A7582D-C50E-4FD5-A4CB-2D936B24C8D8}|database_session.csproj|C:\\Users\\nasty\\source\\repos\\nesquik-sd\\database\\database_session\\courses_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6A7582D-C50E-4FD5-A4CB-2D936B24C8D8}|database_session.csproj|solutionrelative:courses_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6A7582D-C50E-4FD5-A4CB-2D936B24C8D8}|database_session.csproj|C:\\Users\\nasty\\source\\repos\\nesquik-sd\\database\\database_session\\timetable_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B6A7582D-C50E-4FD5-A4CB-2D936B24C8D8}|database_session.csproj|solutionrelative:timetable_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6A7582D-C50E-4FD5-A4CB-2D936B24C8D8}|database_session.csproj|C:\\Users\\nasty\\source\\repos\\nesquik-sd\\database\\database_session\\courses_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B6A7582D-C50E-4FD5-A4CB-2D936B24C8D8}|database_session.csproj|solutionrelative:courses_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6A7582D-C50E-4FD5-A4CB-2D936B24C8D8}|database_session.csproj|C:\\Users\\nasty\\source\\repos\\nesquik-sd\\database\\database_session\\result_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B6A7582D-C50E-4FD5-A4CB-2D936B24C8D8}|database_session.csproj|solutionrelative:result_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6A7582D-C50E-4FD5-A4CB-2D936B24C8D8}|database_session.csproj|C:\\Users\\nasty\\source\\repos\\nesquik-sd\\database\\database_session\\faculties_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6A7582D-C50E-4FD5-A4CB-2D936B24C8D8}|database_session.csproj|solutionrelative:faculties_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6A7582D-C50E-4FD5-A4CB-2D936B24C8D8}|database_session.csproj|C:\\Users\\nasty\\source\\repos\\nesquik-sd\\database\\database_session\\main_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B6A7582D-C50E-4FD5-A4CB-2D936B24C8D8}|database_session.csproj|solutionrelative:main_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6A7582D-C50E-4FD5-A4CB-2D936B24C8D8}|database_session.csproj|C:\\Users\\nasty\\source\\repos\\nesquik-sd\\database\\database_session\\courses_form.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6A7582D-C50E-4FD5-A4CB-2D936B24C8D8}|database_session.csproj|solutionrelative:courses_form.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6A7582D-C50E-4FD5-A4CB-2D936B24C8D8}|database_session.csproj|C:\\Users\\nasty\\source\\repos\\nesquik-sd\\database\\database_session\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6A7582D-C50E-4FD5-A4CB-2D936B24C8D8}|database_session.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6A7582D-C50E-4FD5-A4CB-2D936B24C8D8}|database_session.csproj|C:\\Users\\nasty\\source\\repos\\nesquik-sd\\database\\database_session\\faculties_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B6A7582D-C50E-4FD5-A4CB-2D936B24C8D8}|database_session.csproj|solutionrelative:faculties_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,15 +58,123 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "DocumentMoniker": "C:\\Users\\nasty\\source\\repos\\database_session\\Form1.cs",
-              "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\nasty\\source\\repos\\database_session\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "RelativeToolTip": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentIndex": 1,
+              "Title": "Courses_Form.cs",
+              "DocumentMoniker": "C:\\Users\\nasty\\source\\repos\\nesquik-sd\\database\\database_session\\Courses_Form.cs",
+              "RelativeDocumentMoniker": "Courses_Form.cs",
+              "ToolTip": "C:\\Users\\nasty\\source\\repos\\nesquik-sd\\database\\database_session\\Courses_Form.cs",
+              "RelativeToolTip": "Courses_Form.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-01T11:31:34.434Z",
+              "WhenOpened": "2024-04-01T12:36:16.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Courses_Form.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\nasty\\source\\repos\\nesquik-sd\\database\\database_session\\Courses_Form.Designer.cs",
+              "RelativeDocumentMoniker": "Courses_Form.Designer.cs",
+              "ToolTip": "C:\\Users\\nasty\\source\\repos\\nesquik-sd\\database\\database_session\\Courses_Form.Designer.cs",
+              "RelativeToolTip": "Courses_Form.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T12:35:31.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Timetable_Form.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\nasty\\source\\repos\\nesquik-sd\\database\\database_session\\Timetable_Form.cs",
+              "RelativeDocumentMoniker": "Timetable_Form.cs",
+              "ToolTip": "C:\\Users\\nasty\\source\\repos\\nesquik-sd\\database\\database_session\\Timetable_Form.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Timetable_Form.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T12:29:47.793Z",
               "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Result_Form.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\nasty\\source\\repos\\nesquik-sd\\database\\database_session\\Result_Form.cs",
+              "RelativeDocumentMoniker": "Result_Form.cs",
+              "ToolTip": "C:\\Users\\nasty\\source\\repos\\nesquik-sd\\database\\database_session\\Result_Form.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Result_Form.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T12:29:31.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Faculties_Form.cs",
+              "DocumentMoniker": "C:\\Users\\nasty\\source\\repos\\nesquik-sd\\database\\database_session\\Faculties_Form.cs",
+              "RelativeDocumentMoniker": "Faculties_Form.cs",
+              "ToolTip": "C:\\Users\\nasty\\source\\repos\\nesquik-sd\\database\\database_session\\Faculties_Form.cs",
+              "RelativeToolTip": "Faculties_Form.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T12:22:11.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nasty\\source\\repos\\nesquik-sd\\database\\database_session\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\nasty\\source\\repos\\nesquik-sd\\database\\database_session\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T12:20:07.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Faculties_Form.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\nasty\\source\\repos\\nesquik-sd\\database\\database_session\\Faculties_Form.cs",
+              "RelativeDocumentMoniker": "Faculties_Form.cs",
+              "ToolTip": "C:\\Users\\nasty\\source\\repos\\nesquik-sd\\database\\database_session\\Faculties_Form.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Faculties_Form.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T12:16:28.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Courses_Form.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\nasty\\source\\repos\\nesquik-sd\\database\\database_session\\Courses_Form.cs",
+              "RelativeDocumentMoniker": "Courses_Form.cs",
+              "ToolTip": "C:\\Users\\nasty\\source\\repos\\nesquik-sd\\database\\database_session\\Courses_Form.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Courses_Form.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T12:07:25.887Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Main_Form.cs",
+              "DocumentMoniker": "C:\\Users\\nasty\\source\\repos\\nesquik-sd\\database\\database_session\\Main_Form.cs",
+              "RelativeDocumentMoniker": "Main_Form.cs",
+              "ToolTip": "C:\\Users\\nasty\\source\\repos\\nesquik-sd\\database\\database_session\\Main_Form.cs",
+              "RelativeToolTip": "Main_Form.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T11:36:34.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Main_Form.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\nasty\\source\\repos\\nesquik-sd\\database\\database_session\\Main_Form.cs",
+              "RelativeDocumentMoniker": "Main_Form.cs",
+              "ToolTip": "C:\\Users\\nasty\\source\\repos\\nesquik-sd\\database\\database_session\\Main_Form.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Main_Form.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T11:31:34.434Z"
             }
           ]
         }

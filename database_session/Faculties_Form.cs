@@ -10,11 +10,19 @@ using System.Windows.Forms;
 
 namespace database_session
 {
-    public partial class Form1 : Form
+    public partial class Faculties_Form : Form
     {
-        public Form1()
+        public Faculties_Form()
         {
             InitializeComponent();
+        }
+
+        private void First_Faculty_Button_Click(object sender, EventArgs e)
+        {
+            Courses_Form f3 = new Courses_Form();
+            f3.Show();
+            Visible = false;
+            
         }
     }
 }

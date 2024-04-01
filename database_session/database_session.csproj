@@ -46,14 +46,47 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Form1.cs">
+    <Compile Include="Courses_Form.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Form1.Designer.cs">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <Compile Include="Courses_Form.Designer.cs">
+      <DependentUpon>Courses_Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Faculties_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Faculties_Form.Designer.cs">
+      <DependentUpon>Faculties_Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Main_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Main_Form.Designer.cs">
+      <DependentUpon>Main_Form.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Result_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Result_Form.Designer.cs">
+      <DependentUpon>Result_Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Timetable_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Timetable_Form.Designer.cs">
+      <DependentUpon>Timetable_Form.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Courses_Form.resx">
+      <DependentUpon>Courses_Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Faculties_Form.resx">
+      <DependentUpon>Faculties_Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Main_Form.resx">
+      <DependentUpon>Main_Form.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
