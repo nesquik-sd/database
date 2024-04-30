@@ -12,30 +12,87 @@ namespace database_session
 {
     public partial class Courses_Form : Form
     {
-        public Courses_Form()
+        private int number_faculty;
+        public Courses_Form(int number_faculty)
         {
             InitializeComponent();
+            this.number_faculty = number_faculty;
         }
 
-        
-        private void First_Coutse_Button_Click(object sender, EventArgs e)
+        public void Form_Close(object sender, FormClosingEventArgs e)
         {
-            Courses_Form f3 = new Courses_Form();
-            //f3.Show();
-            DialogResult result = f3.ShowDialog();
-            if (result == DialogResult.OK)
+            Application.Exit();
+        }
+
+        public static bool Result_Clicked = false; //для проверки, были нажаты результаты или расписание
+
+       
+        private void First_Coutse_Button_Click(object sender, EventArgs e) 
+        {
+
+            if (Result_Clicked)
             {
-                Result_Form f4 = new Result_Form();
-                //Courses_Form f3 = new Courses_Form();
+                Result_Form f4 = new Result_Form(number_faculty, 1); 
                 f4.Show();
                 Visible = false;
             }
             else
             {
-                Timetable_Form f5 = new Timetable_Form();
+                this.Hide();
+                Timetable_Form f5 = new Timetable_Form(number_faculty, 1);
                 f5.Show();
                 Visible = false;
             }
         }
+
+        private void Second_Coutse_Button_Click(object sender, EventArgs e)
+        {
+            if (Result_Clicked)
+            {
+                Result_Form f4 = new Result_Form(number_faculty, 2);
+                f4.Show();
+                Visible = false;
+            }
+            else
+            {
+                Timetable_Form f5 = new Timetable_Form(number_faculty, 2);
+                f5.Show();
+                Visible = false;
+            }
+        }
+
+        private void Third_Coutse_Button_Click(object sender, EventArgs e)
+        {
+            if (Result_Clicked)
+            {
+                Result_Form f4 = new Result_Form(number_faculty, 3);
+                f4.Show();
+                Visible = false;
+            }
+            else
+            {
+                Timetable_Form f5 = new Timetable_Form(number_faculty, 3);
+                f5.Show();
+                Visible = false;
+            }
+        }
+        
+        private void Fourth_Coutse_Button_Click(object sender, EventArgs e)
+        {
+            if (Result_Clicked)
+            {
+                Result_Form f4 = new Result_Form(number_faculty, 4);
+                f4.Show();
+                Visible = false;
+            }
+            else
+            {
+                Timetable_Form f5 = new Timetable_Form(number_faculty, 4);
+                f5.Show();
+                Visible = false;
+            }
+        }
+
+
     }
 }

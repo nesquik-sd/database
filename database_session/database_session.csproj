@@ -33,6 +33,10 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="MySql.Data, Version=8.3.0.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\Program Files (x86)\MySQL\MySQL Connector NET 8.3.0\MySql.Data.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
@@ -46,12 +50,19 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Autorization_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Autorization_Form.Designer.cs">
+      <DependentUpon>Autorization_Form.cs</DependentUpon>
+    </Compile>
     <Compile Include="Courses_Form.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="Courses_Form.Designer.cs">
       <DependentUpon>Courses_Form.cs</DependentUpon>
     </Compile>
+    <Compile Include="Database.cs" />
     <Compile Include="Faculties_Form.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -78,6 +89,9 @@
     <Compile Include="Timetable_Form.Designer.cs">
       <DependentUpon>Timetable_Form.cs</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="Autorization_Form.resx">
+      <DependentUpon>Autorization_Form.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Courses_Form.resx">
       <DependentUpon>Courses_Form.cs</DependentUpon>
     </EmbeddedResource>
@@ -96,6 +110,12 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="Result_Form.resx">
+      <DependentUpon>Result_Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Timetable_Form.resx">
+      <DependentUpon>Timetable_Form.cs</DependentUpon>
+    </EmbeddedResource>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>

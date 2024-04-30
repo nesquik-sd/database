@@ -34,7 +34,7 @@
             // 
             // Results_Button
             // 
-            this.Results_Button.BackColor = System.Drawing.Color.Transparent;
+            this.Results_Button.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
             this.Results_Button.Font = new System.Drawing.Font("Century", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.Results_Button.Location = new System.Drawing.Point(354, 206);
             this.Results_Button.Margin = new System.Windows.Forms.Padding(4, 3, 4, 3);
@@ -47,9 +47,9 @@
             // 
             // Timetable_Button
             // 
-            this.Timetable_Button.BackColor = System.Drawing.Color.Transparent;
+            this.Timetable_Button.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
             this.Timetable_Button.Font = new System.Drawing.Font("Century", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.Timetable_Button.Location = new System.Drawing.Point(354, 330);
+            this.Timetable_Button.Location = new System.Drawing.Point(354, 332);
             this.Timetable_Button.Margin = new System.Windows.Forms.Padding(4, 3, 4, 3);
             this.Timetable_Button.Name = "Timetable_Button";
             this.Timetable_Button.Size = new System.Drawing.Size(202, 76);
@@ -62,7 +62,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(12F, 23F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(255)))), ((int)(((byte)(192)))));
+            this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(192)))), ((int)(((byte)(255)))));
             this.ClientSize = new System.Drawing.Size(971, 607);
             this.Controls.Add(this.Timetable_Button);
             this.Controls.Add(this.Results_Button);
